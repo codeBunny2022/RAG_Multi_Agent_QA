@@ -1,0 +1,9 @@
+openai
+streamlit
+langchain
+langchain_community
+faiss-cpu
+tiktoken
+numpy
+pandas
+requests
