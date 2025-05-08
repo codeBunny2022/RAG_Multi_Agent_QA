@@ -3,7 +3,7 @@
 import os
 import openai
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
+from langchain.embeddings import OpenAIEmbeddings
 from langchain.agents import initialize_agent, Tool, AgentType
 from langchain_openai import OpenAI
 
